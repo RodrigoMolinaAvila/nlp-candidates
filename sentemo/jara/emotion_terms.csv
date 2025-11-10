@@ -1,0 +1,14 @@
+﻿term,tf,emotion
+bienestar,6,alegria
+esperanza,2,alegria
+violencia,5,ira
+miedo,5,miedo
+riesgo,1,miedo
+seguridad,7,confianza
+estabilidad,1,confianza
+corrupcion,4,asco
+futuro,9,anticipacion
+proyecto,4,anticipacion
+estrategia,4,anticipacion
+plan,3,anticipacion
+vision,1,anticipacion

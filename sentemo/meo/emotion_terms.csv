@@ -1,0 +1,16 @@
+﻿term,tf,emotion
+bienestar,5,alegria
+violencia,1,ira
+riesgo,3,miedo
+incertidumbre,2,miedo
+inseguridad,1,miedo
+miedo,1,miedo
+seguridad,14,confianza
+estabilidad,2,confianza
+corrupcion,1,asco
+plan,12,anticipacion
+estrategia,5,anticipacion
+proyecto,3,anticipacion
+futuro,2,anticipacion
+vision,1,anticipacion
+planificacion,1,anticipacion
